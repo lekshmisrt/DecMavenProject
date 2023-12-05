@@ -6,6 +6,7 @@ public class display {
 		// TODO Auto-generated method stub
 		System.out.println("display");
 		System.out.println("Hello December");
+		System.out.println("Hello");
 		
 
 	}
